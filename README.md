@@ -1,2 +1,2 @@
 # pystan_musings
-collection of pystan musings
+Collection of pystan musings from a post doc in New Mexico
