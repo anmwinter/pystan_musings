@@ -1,0 +1,219 @@
+County	Manor	Estate	start	end	wheat_gross_yield_per_seed_ratio
+Hampshire	Alresford	Bishop of Winchester	1349	1350	2.89
+Hampshire	Alresford	Bishop of Winchester	1350	1351	3.09
+Hampshire	Alresford	Bishop of Winchester	1351	1352	4.25
+Hampshire	Alresford	Bishop of Winchester	1352	1353	3.17
+Hampshire	Alresford	Bishop of Winchester	1353	1354	
+Hampshire	Alresford	Bishop of Winchester	1354	1355	2.83
+Hampshire	Alresford	Bishop of Winchester	1355	1356	2.62
+Hampshire	Alresford	Bishop of Winchester	1356	1357	3.66
+Hampshire	Alresford	Bishop of Winchester	1357	1358	4.37
+Hampshire	Alresford	Bishop of Winchester	1358	1359	3.39
+Hampshire	Alresford	Bishop of Winchester	1359	1360	2.93
+Hampshire	Alresford	Bishop of Winchester	1360	1361	4.39
+Hampshire	Alresford	Bishop of Winchester	1361	1362	0.97
+Hampshire	Alresford	Bishop of Winchester	1362	1363	2.51
+Hampshire	Alresford	Bishop of Winchester	1363	1364	3
+Hampshire	Alresford	Bishop of Winchester	1364	1365	2.23
+Hampshire	Alresford	Bishop of Winchester	1365	1366	
+Hampshire	Alresford	Bishop of Winchester	1366	1367	1.94
+Hampshire	Alresford	Bishop of Winchester	1367	1368	3.23
+Hampshire	Alresford	Bishop of Winchester	1368	1369	2.21
+Hampshire	Alresford	Bishop of Winchester	1369	1370	3.84
+Hampshire	Alresford	Bishop of Winchester	1370	1371	3.47
+Hampshire	Alresford	Bishop of Winchester	1371	1372	
+Hampshire	Alresford	Bishop of Winchester	1372	1373	
+Hampshire	Alresford	Bishop of Winchester	1373	1374	2.83
+Hampshire	Alresford	Bishop of Winchester	1374	1375	3.44
+Hampshire	Alresford	Bishop of Winchester	1375	1376	3.39
+Hampshire	Alresford	Bishop of Winchester	1376	1377	4.15
+Hampshire	Alresford	Bishop of Winchester	1377	1378	5.01
+Hampshire	Alresford	Bishop of Winchester	1378	1379	2.53
+Hampshire	Alresford	Bishop of Winchester	1379	1380	
+Hampshire	Alresford	Bishop of Winchester	1380	1381	3.31
+Hampshire	Alresford	Bishop of Winchester	1381	1382	2.84
+Hampshire	Alresford	Bishop of Winchester	1382	1383	3.93
+Hampshire	Alresford	Bishop of Winchester	1383	1384	3.76
+Hampshire	Alresford	Bishop of Winchester	1384	1385	
+Hampshire	Alresford	Bishop of Winchester	1385	1386	
+Hampshire	Alresford	Bishop of Winchester	1386	1387	3.75
+Hampshire	Alresford	Bishop of Winchester	1387	1388	3.93
+Hampshire	Alresford	Bishop of Winchester	1388	1389	
+Hampshire	Alresford	Bishop of Winchester	1389	1390	
+Hampshire	Alresford	Bishop of Winchester	1390	1391	
+Hampshire	Alresford	Bishop of Winchester	1391	1392	
+Hampshire	Alresford	Bishop of Winchester	1392	1393	3.09
+Hampshire	Alresford	Bishop of Winchester	1393	1394	4.47
+Hampshire	Alresford	Bishop of Winchester	1394	1395	2.41
+Hampshire	Alresford	Bishop of Winchester	1395	1396	1.4
+Hampshire	Alresford	Bishop of Winchester	1396	1397	
+Hampshire	Alresford	Bishop of Winchester	1397	1398	2.33
+Hampshire	Alresford	Bishop of Winchester	1398	1399	2.74
+Hampshire	Alresford	Bishop of Winchester	1399	1400	2.18
+Hampshire	Alresford	Bishop of Winchester	1400	1401	2.34
+Hampshire	Alresford	Bishop of Winchester	1401	1402	
+Hampshire	Alresford	Bishop of Winchester	1402	1403	
+Hampshire	Alresford	Bishop of Winchester	1403	1404	
+Hampshire	Alresford	Bishop of Winchester	1404	1405	3.89
+Hampshire	Alresford	Bishop of Winchester	1405	1406	2.15
+Hampshire	Alresford	Bishop of Winchester	1406	1407	
+Hampshire	Alresford	Bishop of Winchester	1407	1408	2.12
+Hampshire	Alresford	Bishop of Winchester	1408	1409	2.59
+Hampshire	Alresford	Bishop of Winchester	1409	1410	3.48
+Hampshire	Alresford	Bishop of Winchester	1410	1411	2.74
+Hampshire	Alresford	Bishop of Winchester	1411	1412	3.59
+Hampshire	Alresford	Bishop of Winchester	1412	1413	3.08
+Hampshire	Alresford	Bishop of Winchester	1413	1414	2.8
+Hampshire	Alresford	Bishop of Winchester	1414	1415	3.1
+Hampshire	Alresford	Bishop of Winchester	1415	1416	2.89
+Hampshire	Alresford	Bishop of Winchester	1416	1417	
+Hampshire	Alresford	Bishop of Winchester	1417	1418	2.43
+Hampshire	Alresford	Bishop of Winchester	1418	1419	
+Hampshire	Alresford	Bishop of Winchester	1419	1420	2.86
+Hampshire	Alresford	Bishop of Winchester	1420	1421	2.88
+Hampshire	Alresford	Bishop of Winchester	1421	1422	
+Hampshire	Alresford	Bishop of Winchester	1422	1423	3.51
+Hampshire	Alresford	Bishop of Winchester	1423	1424	3.71
+Hampshire	Alresford	Bishop of Winchester	1424	1425	
+Hampshire	Alresford	Bishop of Winchester	1425	1426	
+Hampshire	Alresford	Bishop of Winchester	1426	1427	
+Hampshire	Alresford	Bishop of Winchester	1427	1428	
+Hampshire	Alresford	Bishop of Winchester	1428	1429	
+Hampshire	Alresford	Bishop of Winchester	1429	1430	
+Hampshire	Alresford	Bishop of Winchester	1430	1431	
+Hampshire	Alresford	Bishop of Winchester	1431	1432	
+Hampshire	Alresford	Bishop of Winchester	1432	1433	
+Hampshire	Alresford	Bishop of Winchester	1433	1434	
+Hampshire	Alresford	Bishop of Winchester	1434	1435	
+Hampshire	Alresford	Bishop of Winchester	1435	1436	
+Hampshire	Alresford	Bishop of Winchester	1436	1437	
+Hampshire	Alresford	Bishop of Winchester	1437	1438	
+Hampshire	Alresford	Bishop of Winchester	1438	1439	
+Hampshire	Alresford	Bishop of Winchester	1439	1440	
+Hampshire	Alresford	Bishop of Winchester	1440	1441	
+Hampshire	Alresford	Bishop of Winchester	1441	1442	
+Hampshire	Alresford	Bishop of Winchester	1442	1443	
+Hampshire	Alresford	Bishop of Winchester	1443	1444	
+Hampshire	Alresford	Bishop of Winchester	1444	1445	
+Hampshire	Alresford	Bishop of Winchester	1445	1446	
+Hampshire	Alresford	Bishop of Winchester	1446	1447	
+Hampshire	Alresford	Bishop of Winchester	1447	1448	
+Hampshire	Alresford	Bishop of Winchester	1448	1449	
+Hampshire	Alresford	Bishop of Winchester	1449	1450	
+Hampshire	Alresford	Bishop of Winchester	1450	1451	
+Hampshire	Alresford	Bishop of Winchester	1451	1452	
+Hampshire	Alresford	Bishop of Winchester	1452	1453	
+Hampshire	Alresford	Bishop of Winchester	1453	1454	
+Hampshire	Alresford	Bishop of Winchester	1454	1455	
+Hampshire	Alresford	Bishop of Winchester	1455	1456	
+Hampshire	Alresford	Bishop of Winchester	1456	1457	
+Hampshire	Alresford	Bishop of Winchester	1457	1458	
+Berkshire	Brightwell	Bishop of Winchester	1349	1350	3.34
+Berkshire	Brightwell	Bishop of Winchester	1350	1351	3.62
+Berkshire	Brightwell	Bishop of Winchester	1351	1352	3.61
+Berkshire	Brightwell	Bishop of Winchester	1352	1353	5.43
+Berkshire	Brightwell	Bishop of Winchester	1353	1354	
+Berkshire	Brightwell	Bishop of Winchester	1354	1355	3.91
+Berkshire	Brightwell	Bishop of Winchester	1355	1356	4.75
+Berkshire	Brightwell	Bishop of Winchester	1356	1357	3.51
+Berkshire	Brightwell	Bishop of Winchester	1357	1358	5.79
+Berkshire	Brightwell	Bishop of Winchester	1358	1359	4.15
+Berkshire	Brightwell	Bishop of Winchester	1359	1360	6.12
+Berkshire	Brightwell	Bishop of Winchester	1360	1361	5.46
+Berkshire	Brightwell	Bishop of Winchester	1361	1362	3.86
+Berkshire	Brightwell	Bishop of Winchester	1362	1363	5.52
+Berkshire	Brightwell	Bishop of Winchester	1363	1364	3.23
+Berkshire	Brightwell	Bishop of Winchester	1364	1365	8.8
+Berkshire	Brightwell	Bishop of Winchester	1365	1366	
+Berkshire	Brightwell	Bishop of Winchester	1366	1367	
+Berkshire	Brightwell	Bishop of Winchester	1367	1368	6.98
+Berkshire	Brightwell	Bishop of Winchester	1368	1369	5.17
+Berkshire	Brightwell	Bishop of Winchester	1369	1370	5.56
+Berkshire	Brightwell	Bishop of Winchester	1370	1371	6.86
+Berkshire	Brightwell	Bishop of Winchester	1371	1372	5.38
+Berkshire	Brightwell	Bishop of Winchester	1372	1373	7.27
+Berkshire	Brightwell	Bishop of Winchester	1373	1374	4.01
+Berkshire	Brightwell	Bishop of Winchester	1374	1375	4.01
+Berkshire	Brightwell	Bishop of Winchester	1375	1376	6.45
+Berkshire	Brightwell	Bishop of Winchester	1376	1377	6.18
+Berkshire	Brightwell	Bishop of Winchester	1377	1378	5.97
+Berkshire	Brightwell	Bishop of Winchester	1378	1379	5.62
+Berkshire	Brightwell	Bishop of Winchester	1379	1380	
+Berkshire	Brightwell	Bishop of Winchester	1380	1381	6.9
+Berkshire	Brightwell	Bishop of Winchester	1381	1382	4.48
+Berkshire	Brightwell	Bishop of Winchester	1382	1383	8.21
+Berkshire	Brightwell	Bishop of Winchester	1383	1384	6.15
+Berkshire	Brightwell	Bishop of Winchester	1384	1385	5.37
+Berkshire	Brightwell	Bishop of Winchester	1385	1386	6.2
+Berkshire	Brightwell	Bishop of Winchester	1386	1387	8.06
+Berkshire	Brightwell	Bishop of Winchester	1387	1388	7.6
+Berkshire	Brightwell	Bishop of Winchester	1388	1389	4.11
+Berkshire	Brightwell	Bishop of Winchester	1389	1390	5.69
+Berkshire	Brightwell	Bishop of Winchester	1390	1391	
+Berkshire	Brightwell	Bishop of Winchester	1391	1392	
+Berkshire	Brightwell	Bishop of Winchester	1392	1393	4.23
+Berkshire	Brightwell	Bishop of Winchester	1393	1394	5.74
+Berkshire	Brightwell	Bishop of Winchester	1394	1395	5.32
+Berkshire	Brightwell	Bishop of Winchester	1395	1396	4.53
+Berkshire	Brightwell	Bishop of Winchester	1396	1397	
+Berkshire	Brightwell	Bishop of Winchester	1397	1398	
+Berkshire	Brightwell	Bishop of Winchester	1398	1399	
+Berkshire	Brightwell	Bishop of Winchester	1399	1400	5.32
+Berkshire	Brightwell	Bishop of Winchester	1400	1401	4.82
+Berkshire	Brightwell	Bishop of Winchester	1401	1402	4.73
+Berkshire	Brightwell	Bishop of Winchester	1402	1403	
+Berkshire	Brightwell	Bishop of Winchester	1403	1404	
+Berkshire	Brightwell	Bishop of Winchester	1404	1405	7.06
+Berkshire	Brightwell	Bishop of Winchester	1405	1406	4.17
+Berkshire	Brightwell	Bishop of Winchester	1406	1407	
+Berkshire	Brightwell	Bishop of Winchester	1407	1408	4.76
+Berkshire	Brightwell	Bishop of Winchester	1408	1409	4.55
+Berkshire	Brightwell	Bishop of Winchester	1409	1410	4.92
+Berkshire	Brightwell	Bishop of Winchester	1410	1411	4.81
+Berkshire	Brightwell	Bishop of Winchester	1411	1412	4.67
+Berkshire	Brightwell	Bishop of Winchester	1412	1413	5.97
+Berkshire	Brightwell	Bishop of Winchester	1413	1414	5.56
+Berkshire	Brightwell	Bishop of Winchester	1414	1415	4.35
+Berkshire	Brightwell	Bishop of Winchester	1415	1416	3.4
+Berkshire	Brightwell	Bishop of Winchester	1416	1417	
+Berkshire	Brightwell	Bishop of Winchester	1417	1418	
+Berkshire	Brightwell	Bishop of Winchester	1418	1419	5.12
+Berkshire	Brightwell	Bishop of Winchester	1419	1420	3.3
+Berkshire	Brightwell	Bishop of Winchester	1420	1421	5.94
+Berkshire	Brightwell	Bishop of Winchester	1421	1422	6.3
+Berkshire	Brightwell	Bishop of Winchester	1422	1423	5.28
+Berkshire	Brightwell	Bishop of Winchester	1423	1424	5.94
+Berkshire	Brightwell	Bishop of Winchester	1424	1425	
+Berkshire	Brightwell	Bishop of Winchester	1425	1426	
+Berkshire	Brightwell	Bishop of Winchester	1426	1427	6.76
+Berkshire	Brightwell	Bishop of Winchester	1427	1428	
+Berkshire	Brightwell	Bishop of Winchester	1428	1429	6.1
+Berkshire	Brightwell	Bishop of Winchester	1429	1430	6.36
+Berkshire	Brightwell	Bishop of Winchester	1430	1431	7.06
+Berkshire	Brightwell	Bishop of Winchester	1431	1432	3.54
+Berkshire	Brightwell	Bishop of Winchester	1432	1433	6.92
+Berkshire	Brightwell	Bishop of Winchester	1433	1434	6.92
+Berkshire	Brightwell	Bishop of Winchester	1434	1435	6.5
+Berkshire	Brightwell	Bishop of Winchester	1435	1436	
+Berkshire	Brightwell	Bishop of Winchester	1436	1437	
+Berkshire	Brightwell	Bishop of Winchester	1437	1438	
+Berkshire	Brightwell	Bishop of Winchester	1438	1439	
+Berkshire	Brightwell	Bishop of Winchester	1439	1440	6.91
+Berkshire	Brightwell	Bishop of Winchester	1440	1441	7.03
+Berkshire	Brightwell	Bishop of Winchester	1441	1442	
+Berkshire	Brightwell	Bishop of Winchester	1442	1443	
+Berkshire	Brightwell	Bishop of Winchester	1443	1444	
+Berkshire	Brightwell	Bishop of Winchester	1444	1445	
+Berkshire	Brightwell	Bishop of Winchester	1445	1446	
+Berkshire	Brightwell	Bishop of Winchester	1446	1447	4.19
+Berkshire	Brightwell	Bishop of Winchester	1447	1448	5.24
+Berkshire	Brightwell	Bishop of Winchester	1448	1449	
+Berkshire	Brightwell	Bishop of Winchester	1449	1450	
+Berkshire	Brightwell	Bishop of Winchester	1450	1451	
+Berkshire	Brightwell	Bishop of Winchester	1451	1452	
+Berkshire	Brightwell	Bishop of Winchester	1452	1453	
+Berkshire	Brightwell	Bishop of Winchester	1453	1454	
+Berkshire	Brightwell	Bishop of Winchester	1454	1455	
+Berkshire	Brightwell	Bishop of Winchester	1455	1456	
+Berkshire	Brightwell	Bishop of Winchester	1456	1457	
+Berkshire	Brightwell	Bishop of Winchester	1457	1458	
