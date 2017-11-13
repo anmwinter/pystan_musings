@@ -1,0 +1,36 @@
+data {
+  int<lower=1> n;
+  vector[n] y;
+  vector[n] D13C;
+  vector[n] D15N;
+  vector[n] Mean_Precip_14;
+  vector[n] Mean_Temp_14;
+  vector[n] Richness;
+}
+parameters {
+  vector[n] mu;
+  vector[n-1] v;
+
+  # sigma_drift < irreg < level
+  positive_ordered[3] sigma;
+  vector[5] beta;
+}
+transformed parameters {
+  vector[n] yhat;
+  yhat = mu + beta[1] * D13C + beta[2] * D15N + beta[3] * Mean_Precip_14  + beta[4] * Mean_Temp_14 + beta[5] * Richness;
+}
+model {
+
+  v[1] ~ normal(0, sigma[1]);
+  for(t in 2:n-1)
+    v[t] ~ normal(v[t-1], sigma[1]);
+
+  mu[1] ~ normal(y[1], sigma[3]);
+  for(t in 2:n)
+    mu[t] ~ normal(mu[t-1] + v[t-1], sigma[3]);
+
+  y ~ normal(yhat, sigma[2]);
+
+  sigma ~ student_t(4, 0, 1);
+  beta ~ normal(0, 2);
+}
